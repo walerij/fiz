@@ -6,6 +6,7 @@ class Fiz{
     //получение скорости
     function get_speed($distance=1, $time=1)
     {
+        //скорость равна расстоянию, деленному на время
         try
         {
             $speed=$distance/$time;
