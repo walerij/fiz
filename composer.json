@@ -1,0 +1,15 @@
+{
+    "name": "walerij/fiz",
+    "description": "fiz formuls",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Zhdanov Valery",
+            "email": "becwal@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {"classmap": ["src"]}
+}
